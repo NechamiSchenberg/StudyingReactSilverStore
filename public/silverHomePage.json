@@ -1,0 +1,32 @@
+[
+    {
+        "Name": "גביעי קידוש",
+        "category": 1,
+        "categoryName": "גביעים",
+        "image": "גביע בגטל על רגל ניאוקלסי.jpg"
+    },
+    {
+        "Name": "מזוזות",
+        "category": 2,
+        "categoryName": "מזוזות",
+        "image": "מזוזה קינג כסף.jpg"
+    },
+    {
+        "Name": "סט קידוש",
+        "category": 3,
+        "categoryName": "גביעים",
+        "image": "סט גביע צלחת המרינג קל.jpg"
+    },
+    {
+        "Name": "פמוטים",
+        "category": 4,
+        "categoryName": "פמוטים",
+        "image": "זוג פמוטים רוונה מיני.jpg"
+    },
+    {
+        "Name": "קנדלברות",
+        "category": 5,
+        "categoryName": "קנדלברה",
+        "image": "פמוט בל חלק גדול 8 קנים.jpg"
+    }
+]

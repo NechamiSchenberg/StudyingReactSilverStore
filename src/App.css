@@ -1,0 +1,144 @@
+* {
+  direction: rtl;
+  font-family: assistant, Calibri;
+  font-weight: 500;
+
+}
+
+.bi-cart {
+  color: blueviolet;
+}
+
+h1 {
+  color: rgb(28, 10, 89);
+  font-size: x-large;
+}
+
+h2 {
+  color: rgb(28, 10, 89);
+  font-size: xxx-large;
+  border-bottom: 3px solid rgb(28, 10, 89);
+  width: fit-content;
+  margin-right: 40%;
+}
+
+body {
+  text-align: center;
+  font-family: assistant, Calibri, 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+  background-color: #eaeaea;
+  color: rgb(28, 10, 89);
+}
+
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  /* display: flex;
+  flex-direction: column; */
+}
+
+.wrapper>div {
+  width: 25%;
+  margin-block: 4%;
+  margin-inline: 1%;
+}
+
+.wrapper>div>div {
+  display: flex;
+  justify-content: space-around;
+}
+
+.wrapper>div>div>span>a {
+  text-decoration: underline;
+}
+
+li {
+  border: 2.5px solid rgb(28, 10, 89);
+  list-style-type: none;
+  width: 20vw;
+  height: fit-content;
+  background-color: rgba(255, 255, 255, 0.674);
+  margin: 1.5%;
+}
+
+img {
+  width: 80%;
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+li>div {
+  padding-top: 4%;
+}
+
+.productDetails {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 5%;
+}
+.productDetails>div>img {
+  width: 50%;
+}
+.flexWrapper {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#header {
+  background-color: rgb(28, 10, 89);
+  padding: 3em;
+}
+
+#header>* {
+  color: silver;
+  font-size: x-large;
+}
+
+a {
+  text-decoration: none;
+}
+
+.button{
+  background-color: rgb(28, 10, 89);
+  color: silver;
+}
+
+/*------------------------ */
+#txtCardNumber {
+  direction: ltr;
+  text-align: right;
+}
+#expmonthInput,
+#expyearInput {
+    width: 100%;
+    background: transparent;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    padding: 0;
+    margin: 0;
+}
+
+#txtCardNumber,
+#txtCvv,
+#txtCardOwnerID {
+    width: 100%;
+    background: transparent;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    padding: 0;
+    margin: 0;
+}
+
+.fieldInput {
+  display: inline-block;
+  vertical-align: top;
+  border: none;
+  width: 100%;
+}

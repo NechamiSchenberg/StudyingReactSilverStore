@@ -1,0 +1,227 @@
+[
+    {
+        "Id": 1,
+        "Name": "גביע בגטל על רגל ניאוקלסי",
+        "Price": 1450,
+        "inStock": 8,
+        "category": 1,
+        "categoryName": "גביעים",
+        "image": "גביע בגטל על רגל ניאוקלסי.jpg"
+    },
+    {
+        "Id": 2,
+        "Name": "גביע ארקו מקושט רוז",
+        "Price": 820,
+        "inStock": 12,
+        "category": 1,
+        "categoryName": "גביעים",
+        "image": "גביע ארקו מקושט רוז.jpg"
+    },
+    {
+        "Id": 3,
+        "Name": "גביע צ'נטרוזה בטן",
+        "Price": 1100,
+        "inStock": 7,
+        "category": 1,
+        "categoryName": "גביעים",
+        "image": "גביע צ'נטרוזה בטן.jpg"
+    },
+    {
+        "Id": 4,
+        "Name": "גביע קובלט רביעית מרוקע",
+        "Price": 1390,
+        "inStock": 8,
+        "category": 1,
+        "categoryName": "גביעים",
+        "image": "גביע קובלט רביעית מרוקע.jpg"
+    },
+    {
+        "Id": 5,
+        "Name": "גביע קמיליה בטן רביעית קטן",
+        "Price": 840,
+        "inStock": 0,
+        "category": 1,
+        "categoryName": "גביעים",
+        "image": "גביע קמיליה בטן רביעית קטן.jpg"
+    },
+    {
+        "Id": 21,
+        "Name": "מזוזה חליל",
+        "Price": 390,
+        "inStock": 11,
+        "category": 2,
+        "categoryName": "מזוזות",
+        "image": "מזוזה חליל.jpg"
+    },
+    {
+        "Id": 22,
+        "Name": "מזוזה חלקה",
+        "Price": 365,
+        "inStock": 20,
+        "category": 2,
+        "categoryName": "מזוזות",
+        "image": "מזוזה חלקה.jpg"
+    },
+    {
+        "Id": 23,
+        "Name": "מזוזה סרטים פרחים",
+        "Price": 750,
+        "inStock": 6,
+        "category": 2,
+        "categoryName": "מזוזות",
+        "image": "מזוזה סרטים פרחים.jpg"
+    },
+    {
+        "Id": 24,
+        "Name": "מזוזה פיליגרין גדולה",
+        "Price": 799,
+        "inStock": 25,
+        "category": 2,
+        "categoryName": "מזוזות",
+        "image": "מזוזה פיליגרין גדולה.jpg"
+    },
+    {
+        "Id": 25,
+        "Name": "מזוזה קינג כסף",
+        "Price": 820,
+        "inStock": 16,
+        "category": 2,
+        "categoryName": "מזוזות",
+        "image": "מזוזה קינג כסף.jpg"
+    },
+    {
+        "Id": 31,
+        "Name": "סט גביע צלחת המרינג קל",
+        "Price": 789,
+        "inStock": 7,
+        "category": 3,
+        "categoryName": "גביעים",
+        "image": "סט גביע צלחת המרינג קל.jpg"
+    },
+    {
+        "Id": 32,
+        "Name": "סט חזון איש על רגל יהלום",
+        "Price": 849,
+        "inStock": 26,
+        "category": 3,
+        "categoryName": "גביעים",
+        "image": "סט חזון איש על רגל יהלום.jpg"
+    },
+    {
+        "Id": 33,
+        "Name": "סט קידוש רביעית בוגאטי",
+        "Price": 1270,
+        "inStock": 9,
+        "category": 3,
+        "categoryName": "גביעים",
+        "image": "סט קידוש רביעית בוגאטי.jpg"
+    },
+    {
+        "Id": 34,
+        "Name": "סט חתן בולרו חלק",
+        "Price": 859,
+        "inStock": 8,
+        "category": 3,
+        "categoryName": "גביעים",
+        "image": "סט חתן בולרו חלק.jpg"
+    },
+    {
+        "Id": 35,
+        "Name": "סט קידוש בוגאטי",
+        "Price": 1350,
+        "inStock": 1,
+        "category": 3,
+        "categoryName": "גביעים",
+        "image": "סט קידוש בוגאטי.jpg"
+    },
+    {
+        "Id": 41,
+        "Name": "זוג פמוטים מתומן חלק קטן",
+        "Price": 3000,
+        "inStock": 11,
+        "category": 4,
+        "categoryName": "פמוטים",
+        "image": "זוג פמוטים מתומן חלק קטן.jpg"
+    },
+    {
+        "Id": 42,
+        "Name": "זוג פמוטים פילגרין",
+        "Price": 2099,
+        "inStock": 4,
+        "category": 4,
+        "categoryName": "פמוטים",
+        "image": "זוג פמוטים פילגרין.jpg"
+    },
+    {
+        "Id": 43,
+        "Name": "זוג פמוטים קורסייה",
+        "Price": 10999,
+        "inStock": 19,
+        "category": 4,
+        "categoryName": "פמוטים",
+        "image": "זוג פמוטים קורסייה.jpg"
+    },
+    {
+        "Id": 44,
+        "Name": "זוג פמוטים רגל עגולה חלק",
+        "Price": 3550,
+        "inStock": 3,
+        "category": 4,
+        "categoryName": "פמוטים",
+        "image": "זוג פמוטים רגל עגולה חלק.jpg"
+    },
+    {
+        "Id": 45,
+        "Name": "זוג פמוטים רוונה מיני",
+        "Price": 7050,
+        "inStock": 8,
+        "category": 4,
+        "categoryName": "פמוטים",
+        "image": "זוג פמוטים רוונה מיני.jpg"
+    },
+    {
+        "Id": 51,
+        "Name": "פמוט בל חלק גדול 8 קנים",
+        "Price": 12250,
+        "inStock": 0,
+        "category": 5,
+        "categoryName": "קנדלברה",
+        "image": "פמוט בל חלק גדול 8 קנים.jpg"
+    },
+    {
+        "Id": 52,
+        "Name": "פמוט גולה 11 קנים גדול",
+        "Price": 17199,
+        "inStock": 23,
+        "category": 5,
+        "categoryName": "קנדלברה",
+        "image": "פמוט גולה 11 קנים גדול.jpg"
+    },
+    {
+        "Id": 53,
+        "Name": "פמוט לגונה מקושט 6 קנים קטן",
+        "Price": 11500,
+        "inStock": 12,
+        "category": 5,
+        "categoryName": "קנדלברה",
+        "image": "פמוט לגונה מקושט 6 קנים קטן.jpg"
+    },
+    {
+        "Id": 54,
+        "Name": "פמוט נאורה חלק 5 קנים",
+        "Price": 9700,
+        "inStock": 19,
+        "category": 5,
+        "categoryName": "קנדלברה",
+        "image": "פמוט נאורה חלק 5 קנים.jpg"
+    },
+    {
+        "Id": 55,
+        "Name": "פמוט קומינו מקושט 10 קנים",
+        "Price": 13099,
+        "inStock": 16,
+        "category": 5,
+        "categoryName": "קנדלברה",
+        "image": "פמוט קומינו מקושט 10 קנים.jpg"
+    }
+]
